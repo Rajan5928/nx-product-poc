@@ -5,6 +5,18 @@
   "references": [
     {
       "path": "./apps/web"
+    },
+    {
+      "path": "./admin"
+    },
+    {
+      "path": "./shared-ui"
+    },
+    {
+      "path": "./shared-types"
+    },
+    {
+      "path": "./shared-utils"
     }
   ]
 }
