@@ -8,7 +8,7 @@ A scalable frontend monorepo built using **Nx**, showcasing modular architecture
 
 | App | URL |
 |-----|-----|
-| Web App | *(add after deployment)* |
+| Web App | *https://nx-product-poc.vercel.app/* |
 | Admin Dashboard | *(add after deployment)* |
 
 ---
